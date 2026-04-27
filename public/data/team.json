@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Ahmad Wijaya",
+    "position": "Owner & Founder",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+    "bio": "Pendiri Empat Coffee and Space dengan visi menciptakan ruang komunitas yang nyaman dan ramah untuk semua kalangan.",
+    "email": "ahmad@empatcoffee.com"
+  },
+  {
+    "id": 2,
+    "name": "Siti Nurhaliza",
+    "position": "Head Barista",
+    "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop",
+    "bio": "Barista berpengalaman dengan keahlian dalam membuat specialty coffee dan latte art yang indah.",
+    "email": "siti@empatcoffee.com"
+  },
+  {
+    "id": 3,
+    "name": "Budi Santoso",
+    "position": "Manager Operasional",
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop",
+    "bio": "Mengelola operasional harian dengan fokus pada customer satisfaction dan kualitas layanan terbaik.",
+    "email": "budi@empatcoffee.com"
+  },
+  {
+    "id": 4,
+    "name": "Rini Handayani",
+    "position": "Marketing & Social Media",
+    "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop",
+    "bio": "Kreatif dalam menjalankan strategi marketing dan membangun komunitas di media sosial.",
+    "email": "rini@empatcoffee.com"
+  }
+]

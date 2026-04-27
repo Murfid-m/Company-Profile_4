@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Specialty Coffee",
+    "description": "Kopi pilihan dari berbagai daerah dengan proses roasting yang sempurna, disajikan oleh barista profesional.",
+    "icon": "☕"
+  },
+  {
+    "id": 2,
+    "name": "Workspace & Meeting",
+    "description": "Ruang kerja yang nyaman dengan WiFi cepat, power outlet lengkap, dan suasana yang mendukung produktivitas.",
+    "icon": "💼"
+  },
+  {
+    "id": 3,
+    "name": "Event & Workshop",
+    "description": "Kami menyediakan ruang untuk acara, workshop, gathering, dan berbagai kegiatan komunitas lainnya.",
+    "icon": "🎯"
+  },
+  {
+    "id": 4,
+    "name": "Catering & Delivery",
+    "description": "Layanan katering untuk acara Anda atau pesan delivery ke lokasi terdekat dengan paket menarik.",
+    "icon": "🚚"
+  }
+]
